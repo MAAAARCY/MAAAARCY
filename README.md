@@ -19,7 +19,7 @@
 - 2023年4月~2025年3月 鈴鹿工業高等専門学校 総合イノベーション工学専攻に在籍
 - 2025年4月~ 奈良先端科学技術大学院大学 情報科学領域に在籍
 ### 🧑‍🎓 Intern
-- 2024年4月~2025年4月 [株式会社シナスタジア](https://www.wantedly.com/companies/company_793206)で長期インターンに参画
+- 2024年4月~2025年4月 [株式会社シナスタジア](https://www.wantedly.com/companies/company_793206)で長期インターンに参加
  <!--
  <p align=left>
    <img src="https://github-readme-stats.vercel.app/api?username=MAAAARCY&show_icons=true&theme=algolia" height=170px>
