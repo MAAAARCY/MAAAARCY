@@ -7,7 +7,7 @@
 - 🧑‍💻 I'm a unity engineer.
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,blender,github,flutter,python,cs" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,blender,github,notion,ubuntu,apple,windows,flutter,python,cs" />
 <br>
 
 ## 🏃‍♀️ Activities
