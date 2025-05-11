@@ -7,7 +7,7 @@
 - UnityとFlutterが好きです
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,blender,github,notion,ubuntu,apple,windows,flutter,python,cs" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,blender,github,notion,ubuntu,apple,windows,flutter,python,cs,typescript" />
 <br>
 
 ## 🏃‍♀️ Activities
